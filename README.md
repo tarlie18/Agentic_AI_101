@@ -1,1 +1,2 @@
 # Agentic_AI_101
+A hands-on introduction to AI agents, built for an HHS-focused internship curriculum. This notebook builds an Outbreak Triage Agent that takes an ambiguous health rumor, verifies it using live web and news search tools, cross-references authoritative sources like MedlinePlus and CDC open data, and outputs a structured JSON alert with a threat level (Low/Medium/High). Covers the core anatomy of an agent — persona, memory, planning, and tool use — using LangChain and Google's Gemini API.
